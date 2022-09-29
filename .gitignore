@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 pset01/*.pkl
+Solutions/*
 
 # C extensions
 *.so
